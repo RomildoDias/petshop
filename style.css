@@ -58,13 +58,12 @@
 }
 #produtos{
     width: 100vw;
-    height: 100vh;
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
-    background-color: #9696f0;
-    padding-top: 8rem;
+    background-color: #d8d8fa;
+    padding: 8rem 0px;
 }
 #servicos{
     width: 100vw;
@@ -83,7 +82,7 @@
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
-    background-color: #9696f1;
+    background-color: #d8d8fa;
     padding-top: 8rem;
 }
 #contato{
@@ -128,6 +127,47 @@
     word-spacing: 2px;
     padding: 0 250px;
     
+}
+.colecao{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+.produto-itens img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+
+}
+.produto-itens img{
+    flex: 1 1 200px;
+}
+#produtos h2{
+    font-size: 50px;
+    padding: 40px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color:rgb(243, 22, 14) ;
+    text-shadow: 0px 0px 5px rgb(250, 140, 113);
+    
+    
+}
+.descricao{
+    border-left: 5px solid rgb(134, 27, 27);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #d4210a;
+}
+.desc{
+    font-size: 20px;
 }
 .contato{
     display: flex;

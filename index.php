@@ -50,6 +50,111 @@
             <h1 class="titulo">
                 Conheça nosso produtos
             </h1>
+            <div class="colecao">
+          <div class="produto-itens">
+            <img src="imgs/prod/1.jpg" alt="" />
+            <div class="descricao">
+              <h3 class="desc">Pedigree Adulto </h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/2.jpg" alt="" />
+            <div class="descricao">
+              <h3 class="desc">Pedigree Filhote</h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/3.jpg" alt="" />
+            <div class="descricao">
+              <h3 class="desc">Pedigree Biscrok</h3> 
+              <h3 class="desc">R$ 00,00</h3> 
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/4.jpg" alt="" />
+            <div class="descricao">
+              <h3 class="desc">Golden Formula/h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/5.jpg" alt="" />
+            <div class="descricao">
+              <h3 class="desc">Golden Special</h3> 
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/6.jpg" alt="" />
+            <div class="descricao">
+            <h3 class="desc">Premier Golden</h3>
+              <h3 class="desc">R$ 00,00</h3>  
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/7.jpg" alt="" />
+            <div class="descricao">
+            <h3 class="desc">Coleira</h3>
+              <h3 class="desc">R$ 00,00</h3>  
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/8.jpg" alt="" />
+            <div class="descricao">
+            <h3 class="desc">Shampoo para Cães</h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/9.jpg" alt="" />
+            <div class="descricao">
+            <h3 class="desc">Shampoo para Gatos</h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/10.jpg" alt="" />
+            <div class="descricao">
+              <h3 class="desc">Comedouro Para Gatos</h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/11.jpg" alt="" />
+            <div class="descricao">
+            <h3 class="desc">Comedouro Para Cães</h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+          <div class="produto-itens">
+            <img src="imgs/prod/12.jpg" alt="" />
+            <div class="descricao">
+              <h3 class="desc">Bebedouro</h3>
+              <h3 class="desc">R$ 00,00</h3>
+            </div>
+          </div>
+            <div class="produto-itens">
+              <img src="imgs/prod/13.jpg" alt="" />
+              <div class="descricao">
+              <h3 class="desc">Brinquedos para Cães</h3>
+              <h3 class="desc">R$ 00,00</h3>
+               
+              </div>
+            </div>
+              <div class="produto-itens">
+                <img src="imgs/prod/14.jpg" alt="" />
+                <div class="descricao">
+                <h3 class="desc">Brinquedos para Gatos</h3>
+              <h3 class="desc">R$ 00,00</h3>
+                 
+                </div>
+              </div>
+                
+          
+        </div>
+      </section>
         </section>
         <section id="servicos">
             <h1 class="titulo">
