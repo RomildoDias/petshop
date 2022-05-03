@@ -56,6 +56,7 @@
             <div class="descricao">
               <h3 class="desc">Pedigree Adulto </h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -63,6 +64,7 @@
             <div class="descricao">
               <h3 class="desc">Pedigree Filhote</h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -70,6 +72,7 @@
             <div class="descricao">
               <h3 class="desc">Pedigree Biscrok</h3> 
               <h3 class="desc">R$ 00,00</h3> 
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -77,6 +80,7 @@
             <div class="descricao">
               <h3 class="desc">Golden Formula/h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -84,20 +88,23 @@
             <div class="descricao">
               <h3 class="desc">Golden Special</h3> 
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
             <img src="imgs/prod/6.jpg" alt="" />
             <div class="descricao">
             <h3 class="desc">Premier Golden</h3>
-              <h3 class="desc">R$ 00,00</h3>  
+              <h3 class="desc">R$ 00,00</h3> 
+              <button >Comprar</button> 
             </div>
           </div>
           <div class="produto-itens">
             <img src="imgs/prod/7.jpg" alt="" />
             <div class="descricao">
             <h3 class="desc">Coleira</h3>
-              <h3 class="desc">R$ 00,00</h3>  
+              <h3 class="desc">R$ 00,00</h3> 
+              <button >Comprar</button> 
             </div>
           </div>
           <div class="produto-itens">
@@ -105,6 +112,7 @@
             <div class="descricao">
             <h3 class="desc">Shampoo para Cães</h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -112,6 +120,7 @@
             <div class="descricao">
             <h3 class="desc">Shampoo para Gatos</h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -119,6 +128,7 @@
             <div class="descricao">
               <h3 class="desc">Comedouro Para Gatos</h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -126,6 +136,7 @@
             <div class="descricao">
             <h3 class="desc">Comedouro Para Cães</h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
           <div class="produto-itens">
@@ -133,6 +144,7 @@
             <div class="descricao">
               <h3 class="desc">Bebedouro</h3>
               <h3 class="desc">R$ 00,00</h3>
+              <button >Comprar</button>
             </div>
           </div>
             <div class="produto-itens">
@@ -140,7 +152,7 @@
               <div class="descricao">
               <h3 class="desc">Brinquedos para Cães</h3>
               <h3 class="desc">R$ 00,00</h3>
-               
+              <button >Comprar</button>
               </div>
             </div>
               <div class="produto-itens">
@@ -148,7 +160,7 @@
                 <div class="descricao">
                 <h3 class="desc">Brinquedos para Gatos</h3>
               <h3 class="desc">R$ 00,00</h3>
-                 
+              <button >Comprar</button>
                 </div>
               </div>
                 

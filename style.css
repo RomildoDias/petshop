@@ -6,6 +6,9 @@
     list-style: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 .logo{
     width: 80px;
     height: 80px;
@@ -160,14 +163,32 @@
     
 }
 .descricao{
-    border-left: 5px solid rgb(134, 27, 27);
+    border-left: 2px solid rgb(25, 5, 71);
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-    color: #d4210a;
+    color: #220c5f;
 }
 .desc{
-    font-size: 20px;
+    font-size: 15px;
+}
+button{
+    width: 75%;
+    padding: 5px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 800;
+    color: #000033;
+    margin-top: 10px;
+    background-color: #6740d3;
+    border: none;
+    border-radius: 5px;
+    transition: 500ms ease-in-out;
+    box-shadow: 5px 5px 10px #000033a8 ;
+}
+button:hover{
+    background-color: #3333f7;
+    color: #fff;
 }
 .contato{
     display: flex;
