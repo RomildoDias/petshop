@@ -172,6 +172,24 @@
             <h1 class="titulo">
                 Nossos serviços
             </h1>
+            <div class="servico">
+              <div class="item-serv">
+                <img src="imgs/servicos/banho.jpg" alt="banho em um cachorro"/>
+                <h3>Banho</h3>
+              </div>
+              <div class="item-serv">
+              <img src="imgs/servicos/tosas.jpg" alt="tosando um cachorro"/>
+              <h3>Tosa</h3>
+              </div>
+              <div class="item-serv">
+              <img src="imgs/servicos/veterinario.jpg" alt="um veterinario"/>
+              <h3>Veterinário</h3>
+              </div>
+              <div class="item-serv">
+              <img src="imgs/servicos/passeador.jpg" alt="homem passeando com cachorro"/>
+              <h3>Passeador</h3>
+              </div>
+            </div>
         </section>
         <section id="pets">
             <h1 class="titulo">

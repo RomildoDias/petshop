@@ -70,7 +70,7 @@ html{
 }
 #servicos{
     width: 100vw;
-    height: 100vh;
+    
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
@@ -163,7 +163,7 @@ html{
     
 }
 .descricao{
-    border-left: 2px solid rgb(25, 5, 71);
+    border-left: 2px solid #190547;
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -189,6 +189,33 @@ button{
 button:hover{
     background-color: #3333f7;
     color: #fff;
+}
+.servico{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+    padding: 30px;
+}
+.item-serv img{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 200px;
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 5px 10px 15px #101014;
+
+}
+.item-serv h3{
+    text-align: center;
+    padding: 15px;
+    font-size: 1.5rem;
+    border-left: 2px solid #190547;
+    margin-top: 5px;
+    color: #000033;
 }
 .contato{
     display: flex;
