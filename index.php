@@ -50,9 +50,9 @@
             <h1 class="titulo">
                 Conheça nosso produtos
             </h1>
-            <div class="colecao">
-          <div class="produto-itens">
-            <img src="imgs/prod/1.jpg" alt="" />
+            <div class="colecao ">
+          <div class="produto-itens ">
+            <img class src="imgs/prod/1.jpg" alt="" />
             <div class="descricao">
               <h3 class="desc">Pedigree Adulto </h3>
               <h3 class="desc">R$ 00,00</h3>
@@ -173,7 +173,7 @@
                 Nossos serviços
             </h1>
             <div class="servico">
-              <div class="item-serv">
+              <div class="item-serv ">
                 <img src="imgs/servicos/banho.jpg" alt="banho em um cachorro"/>
                 <h3>Banho</h3>
               </div>
@@ -195,6 +195,26 @@
             <h1 class="titulo">
                 Mais pets 
             </h1>
+            <div class="pets">
+              <div class="lista-pet ">
+                <img src="imgs/cachorroSlide.jpg" alt=""/>
+              </div>
+              <div class="lista-pet">
+              <img src="imgs/gato.jpg" alt=""/>
+              </div>
+              <div class="lista-pet">
+              <img src="imgs/cavalo.jpg" alt=""/>
+              </div>
+              <div class="lista-pet">
+              <img src="imgs/passaros.jpg" alt=""/>
+              </div>
+              <div class="lista-pet"> 
+                <img src="imgs/peixe.jpg" alt=""/>
+            </div>
+            <div class="lista-pet">
+               <img src="imgs/tartaruga.jpg" alt=""/>
+              </div>
+            </div>
         </section>
         <section id="contato">
             <h1 class="titulo">
